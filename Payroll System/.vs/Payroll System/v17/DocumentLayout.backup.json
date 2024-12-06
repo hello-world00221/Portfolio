@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\Payroll System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|c:\\users\\qcu\\source\\repos\\payroll system\\payroll system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|solutionrelative:payroll system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|C:\\Users\\QCU\\source\\repos\\Payroll System\\payroll system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|solutionrelative:payroll system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|C:\\Users\\QCU\\source\\repos\\Payroll System\\payroll system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|solutionrelative:payroll system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|C:\\Users\\QCU\\source\\repos\\Payroll System\\payroll system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F87C3DFA-C03E-488F-B124-5D23A182285F}|Payroll System\\Payroll System.vbproj|solutionrelative:payroll system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form1.vb",
+              "RelativeDocumentMoniker": "Payroll System\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form1.vb",
+              "RelativeToolTip": "Payroll System\\Form1.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-20T04:24:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form2.vb",
+              "RelativeDocumentMoniker": "Payroll System\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form2.vb [Design]",
+              "RelativeToolTip": "Payroll System\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-20T03:46:35.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form1.vb",
+              "RelativeDocumentMoniker": "Payroll System\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form1.vb [Design]",
+              "RelativeToolTip": "Payroll System\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-20T03:44:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form2.vb",
+              "RelativeDocumentMoniker": "Payroll System\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Payroll System\\Payroll System\\Form2.vb",
+              "RelativeToolTip": "Payroll System\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T11:57:53.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

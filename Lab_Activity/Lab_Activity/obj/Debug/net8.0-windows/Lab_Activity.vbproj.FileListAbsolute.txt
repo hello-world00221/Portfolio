@@ -1,0 +1,17 @@
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\bin\Debug\net8.0-windows\Lab_Activity.exe
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\bin\Debug\net8.0-windows\Lab_Activity.deps.json
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\bin\Debug\net8.0-windows\Lab_Activity.runtimeconfig.json
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\bin\Debug\net8.0-windows\Lab_Activity.dll
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\bin\Debug\net8.0-windows\Lab_Activity.pdb
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.Form1.resources
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.AssemblyInfoInputs.cache
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.AssemblyInfo.vb
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.dll
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\refint\Lab_Activity.dll
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.pdb
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.genruntimeconfig.cache
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\ref\Lab_Activity.dll
+C:\Users\QCU\source\repos\Lab_Activity\Lab_Activity\obj\Debug\net8.0-windows\Lab_Activity.Form2.resources

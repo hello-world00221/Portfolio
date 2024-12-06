@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\Try\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A506D3-60EF-4D34-BF63-469BFA601EEC}|Try\\Try.vbproj|c:\\users\\qcu\\source\\repos\\try\\try\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{05A506D3-60EF-4D34-BF63-469BFA601EEC}|Try\\Try.vbproj|solutionrelative:try\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Try\\Try\\Form1.vb",
+              "RelativeDocumentMoniker": "Try\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Try\\Try\\Form1.vb [Design]",
+              "RelativeToolTip": "Try\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-14T07:07:47.33Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

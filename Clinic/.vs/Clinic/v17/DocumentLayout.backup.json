@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|C:\\Users\\QCU\\source\\repos\\Clinic\\clinic\\nursedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\nursedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|c:\\users\\qcu\\source\\repos\\clinic\\clinic\\nursedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\nursedashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|c:\\users\\qcu\\source\\repos\\clinic\\clinic\\patientsadashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\patientsadashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|C:\\Users\\QCU\\source\\repos\\Clinic\\clinic\\patientsadashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\patientsadashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|C:\\Users\\QCU\\source\\repos\\Clinic\\clinic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|C:\\Users\\QCU\\source\\repos\\Clinic\\clinic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|C:\\Users\\QCU\\source\\repos\\Clinic\\clinic\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E78CE8E-DFA4-42C6-A58C-036DBC207180}|Clinic\\Clinic.vbproj|solutionrelative:clinic\\admindashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NurseDashBoard.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\NurseDashBoard.vb",
+              "RelativeDocumentMoniker": "Clinic\\NurseDashBoard.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\NurseDashBoard.vb",
+              "RelativeToolTip": "Clinic\\NurseDashBoard.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T10:55:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NurseDashBoard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\NurseDashBoard.vb",
+              "RelativeDocumentMoniker": "Clinic\\NurseDashBoard.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\NurseDashBoard.vb [Design]",
+              "RelativeToolTip": "Clinic\\NurseDashBoard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-25T08:15:19.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientsaDashboard.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\PatientsaDashboard.vb",
+              "RelativeDocumentMoniker": "Clinic\\PatientsaDashboard.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\PatientsaDashboard.vb",
+              "RelativeToolTip": "Clinic\\PatientsaDashboard.vb",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowNwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T12:11:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsaDashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\PatientsaDashboard.vb",
+              "RelativeDocumentMoniker": "Clinic\\PatientsaDashboard.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\PatientsaDashboard.vb [Design]",
+              "RelativeToolTip": "Clinic\\PatientsaDashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T12:00:41.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\Form1.vb",
+              "RelativeDocumentMoniker": "Clinic\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\Form1.vb [Design]",
+              "RelativeToolTip": "Clinic\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T08:56:43.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\Form1.vb",
+              "RelativeDocumentMoniker": "Clinic\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\Form1.vb",
+              "RelativeToolTip": "Clinic\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-21T08:59:35.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashBoard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\AdminDashBoard.vb",
+              "RelativeDocumentMoniker": "Clinic\\AdminDashBoard.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Clinic\\Clinic\\AdminDashBoard.vb [Design]",
+              "RelativeToolTip": "Clinic\\AdminDashBoard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-23T13:09:27.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\QCU\source\repos\Order System\Order System\bin\Debug\Order System.exe.config
+C:\Users\QCU\source\repos\Order System\Order System\bin\Debug\Order System.exe
+C:\Users\QCU\source\repos\Order System\Order System\bin\Debug\Order System.pdb
+C:\Users\QCU\source\repos\Order System\Order System\bin\Debug\Order System.xml
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.vbproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order_System.Form1.resources
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order_System.Form2.resources
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order_System.Resources.resources
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.exe
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.xml
+C:\Users\QCU\source\repos\Order System\Order System\obj\Debug\Order System.pdb

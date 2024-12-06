@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\ch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE53666E-93BA-44E6-9B74-0C86790EF209}|ch\\ch.vbproj|c:\\users\\qcu\\source\\repos\\ch\\ch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EE53666E-93BA-44E6-9B74-0C86790EF209}|ch\\ch.vbproj|solutionrelative:ch\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\ch\\ch\\Form1.vb",
+              "RelativeDocumentMoniker": "ch\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\ch\\ch\\Form1.vb [Design]",
+              "RelativeToolTip": "ch\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-26T12:44:01.73Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

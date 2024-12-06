@@ -1,0 +1,12 @@
+C:\Users\QCU\source\repos\TestRun\TestRun\bin\Debug\TestRun.exe.config
+C:\Users\QCU\source\repos\TestRun\TestRun\bin\Debug\TestRun.exe
+C:\Users\QCU\source\repos\TestRun\TestRun\bin\Debug\TestRun.pdb
+C:\Users\QCU\source\repos\TestRun\TestRun\bin\Debug\TestRun.xml
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.vbproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.Resources.resources
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.exe
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.xml
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.pdb
+C:\Users\QCU\source\repos\TestRun\TestRun\obj\Debug\TestRun.Form1.resources

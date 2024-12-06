@@ -1,0 +1,11 @@
+C:\Users\QCU\source\repos\p\p\bin\Debug\p.exe.config
+C:\Users\QCU\source\repos\p\p\bin\Debug\p.exe
+C:\Users\QCU\source\repos\p\p\bin\Debug\p.pdb
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.exe
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.pdb
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.Login.resources
+C:\Users\QCU\source\repos\p\p\obj\Debug\p.Homes.resources

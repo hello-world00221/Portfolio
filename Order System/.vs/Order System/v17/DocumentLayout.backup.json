@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\Order System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|c:\\users\\qcu\\source\\repos\\order system\\order system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|solutionrelative:order system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|C:\\Users\\QCU\\source\\repos\\Order System\\order system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|solutionrelative:order system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|C:\\Users\\QCU\\source\\repos\\Order System\\order system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|solutionrelative:order system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|C:\\Users\\QCU\\source\\repos\\Order System\\order system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4222CBFB-298D-47F6-815C-029F85CD920C}|Order System\\Order System.vbproj|solutionrelative:order system\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form2.vb",
+              "RelativeDocumentMoniker": "Order System\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form2.vb",
+              "RelativeToolTip": "Order System\\Form2.vb",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAiwFsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-13T08:50:55.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form1.vb",
+              "RelativeDocumentMoniker": "Order System\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form1.vb",
+              "RelativeToolTip": "Order System\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-13T08:05:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form1.vb",
+              "RelativeDocumentMoniker": "Order System\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form1.vb [Design]",
+              "RelativeToolTip": "Order System\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-13T07:53:00.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form2.vb",
+              "RelativeDocumentMoniker": "Order System\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\Order System\\Order System\\Form2.vb [Design]",
+              "RelativeToolTip": "Order System\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-13T08:01:25.832Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
